@@ -23,6 +23,3 @@ class Solution(object):
                 i+=1
                 k-=1
         return res
-            
-
-        
